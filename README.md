@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @buthaina279
-- 👀 I’m interested in programming
-- 🌱 I’m Data Scientist
-- 📫 How to reach me (buthaina279@gmail.com)
+### 👋 Hi there, I'm Buthaina (@buthaina279)  
+- 👀 I'm passionate about programming and data science.  
+- 🌱 Currently growing my skills as a Data Scientist.  
+- 📫 Feel free to reach out: buthaina279@gmail.com  
